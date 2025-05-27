@@ -16,10 +16,10 @@ It quickly scans the target IP and port range, detects open ports, grabs service
 
 ---
 
-## 📦 Program Dosyaları
+## 📦 Program Files
 
-Hem Python sürümü (`promils_eye.py`) hem de PyInstaller ile oluşturulmuş **EXE sürümü** `dist/` klasöründe bulunmaktadır.  
-Dosyaları buradan indirip kullanabilirsiniz.
+Both the Python script (`promils_eye.py`) and the PyInstaller **EXE version** are located in the `dist/` folder.  
+You can download and use the files from there.
 
-- Python yüklü ise Python dosyasını, yüklü değilse EXE dosyasını çalıştırabilirsiniz.  
-- EXE versiyonu Windows 7 ve üzeri için uygundur.
+- Run the Python script if you have Python installed, or use the EXE file if you don't.  
+- The EXE version is compatible with Windows 7 and later.
