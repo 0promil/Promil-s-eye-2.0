@@ -16,12 +16,10 @@ It quickly scans the target IP and port range, detects open ports, grabs service
 
 ---
 
-## 🚀 Installation
+## 📦 Program Dosyaları
 
-Make sure you have Python 3.x installed.  
-Required Python package: `requests`
+Hem Python sürümü (`promils_eye.py`) hem de PyInstaller ile oluşturulmuş **EXE sürümü** `dist/` klasöründe bulunmaktadır.  
+Dosyaları buradan indirip kullanabilirsiniz.
 
-Install it via terminal or CMD:
-
-```bash
-pip install requests
+- Python yüklü ise Python dosyasını, yüklü değilse EXE dosyasını çalıştırabilirsiniz.  
+- EXE versiyonu Windows 7 ve üzeri için uygundur.
